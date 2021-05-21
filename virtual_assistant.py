@@ -55,14 +55,3 @@ while True:
 
 
 
-     #   speak("we will go in game")
-      #  path = "D:\Games"
-       # path = os.path.realpath(path)
-        #print(path)
-        #os.startfile(path)
-
-##if"time" in text:
-##    speak(f"{time}")
-###if = open("experimen.txt","w")
-###if.write(text)
-###if.close()
